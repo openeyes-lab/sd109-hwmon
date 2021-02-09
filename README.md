@@ -25,7 +25,7 @@ sudo apt-get install raspberrypi-kernel-headers git
 ```
 Download from git:
 ```
-git clone http://git.i2make.eu/LinuxDriver/sd109_hwmon.git
+git clone https://github.com/openeyes-lab/sd109-hwmon.git
 ```
 build driver
 ```
