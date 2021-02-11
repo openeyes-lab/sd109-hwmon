@@ -4,11 +4,11 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](http://www.gnu.org/licenses/lgpl-3.0)
 
 This repository contains Linux drivers for the hardware monitor module implemented
-on OPEN-EYES-II devices from OPEN-EYES S.r.L.
+on OPEN-EYES-RPI devices from OPEN-EYES S.r.L.
 This driver is licensed under the Gnu Public License.
 This driver is tested under the Linux 5.X kernels.
 
-For more information about OPEN-EYES-II devices visit http://www.open-eyes.it
+For more information about OPEN-EYES-RPI devices visit http://www.open-eyes.it
 
 The sd109-hwmon Linux driver dialogues with firmware on ATMEL ATTINY817 MCU mounted
 on the OPEN-EYES-RPI multifunction access system based on Rasberry compute module CM3
